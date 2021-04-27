@@ -2,7 +2,7 @@
 POC Hooking PG3D v16.6.1
 
 ## Info
-This code was written by me for PG3D v16.6.1 back in 2019 and most likely wouldn't work with any newer version.
+This code was written by me for PG3D v16.6.1 back in 2019.
 
 My main code is in [jbro.cpp](https://github.com/jbro129/PG3D-Hook/blob/main/Source/jbro.cpp)
 
