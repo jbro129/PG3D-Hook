@@ -4,9 +4,9 @@ POC Hooking PG3D v16.6.1
 ## Info
 This code was written by me for PG3D v16.6.1 back in 2019 and most likely wouldn't work with any newer version.
 
-My main code is in [jbro.cpp](https://github.com/jbro129/PG3D-Hook/blob/master/Source/jbro.cpp)
+My main code is in [jbro.cpp](https://github.com/jbro129/PG3D-Hook/blob/main/Source/jbro.cpp)
 
-You can compare the offsets in [dump.cs](https://github.com/jbro129/PG3D-Hook/blob/master/PG3D/dump.cs)
+You can compare the offsets in [dump.cs](https://github.com/jbro129/PG3D-Hook/blob/main/PG3D/dump.cs)
 
 ## Why Upload it now?
 For the people that might be interested in looking at some of my old code. Maybe it can be updated to the newest version? Who knows.
